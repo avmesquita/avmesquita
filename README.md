@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### About Me:    
-I am passionate about developing software applications and systems. Already loves study philosophy
+I am passionate about developing software applications and systems.
 
 I have 48 years old, I code about 30 years and love be coding. 
 
