@@ -11,6 +11,12 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 
 <div>&nbsp;</div>
 
+<div align="center">
+  <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</div>
+
+<div>&nbsp;</div>
+
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=avmesquita&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
