@@ -5,7 +5,7 @@ I have 48 years old, I code professionally about 30 years and love be coding, in
 
 For years, I published my software on platforms such as SourceForge, Tucows and SuperDownloads for free use, having reached more than 20k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
-When I'm not coding, I'm either cooking or studying philosophy or taking long walks around.
+When I'm not coding, I'm either cooking or studying philosophy/psicology or taking long walks around.
 
 <div align="center">
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
