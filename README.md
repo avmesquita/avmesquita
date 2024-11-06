@@ -5,6 +5,8 @@ I have 48 years old, I code professionally about 30 years and love be coding, in
 
 For years, I published my software on platforms such as SourceForge, Tucows and SuperDownloads for free use, having reached more than 20k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
+I have some free codes into GitHub at my <a href="https://github.com/avm-sistemas">own company</a>.
+
 Everyone spends their lives searching for a purpose and, who knows, leaving a legacy for future generations. Since I haven't written any books yet, I see my repository as a legacy and I hope it will help others after I'm no longer here.
 
 When I'm not coding, I'm either cooking or studying philosophy/psicology or taking long walks around.
