@@ -1,7 +1,7 @@
 ### About Me:    
 I am passionate about developing software applications and systems.
 
-I have 48 years old, I code professionally about 30 years and love be coding, integrating technologies or just learning something new. My first contact with languages was in 1986 (at 10), with Basic.
+I have 49 years old, I code professionally about 30 years and love be coding, integrating technologies or just learning something new. My first contact with languages was in 1986 (at 10), with Basic.
 
 For years, I published my software on platforms such as SourceForge, Tucows and SuperDownloads for free use, having reached more than 20k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
