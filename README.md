@@ -11,6 +11,8 @@ Everyone spends their lives searching for a purpose and, who knows, leaving a le
 
 When I'm not coding, I'm either cooking or studying philosophy/psicology or taking long walks around.
 
+I am a lucky man. I work with I love.
+
 <div align="center">
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 </div>
