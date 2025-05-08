@@ -41,8 +41,8 @@ I am a lucky man. I work with I love.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&type=svg">      
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&type=svg" alt="GitHub Streak" />
 </p>
 
 <div id="header" align="center">
