@@ -42,7 +42,7 @@ I am a lucky man. I work with I love.
 </p>
 
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&type=svg">      
 </p>
 
 <div id="header" align="center">
