@@ -52,3 +52,6 @@ I am a lucky man. I work with I love.
 <br><br><br>
 
 <!-- GitAds-Verify: CPF5M2X8DI856LQQRJJ3Z6LMTS6OOBJ1 -->
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=avmesquita/avmesquita@github)](https://gitads.dev/v1/ad-track?source=avmesquita/avmesquita@github)
+
