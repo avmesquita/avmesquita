@@ -13,16 +13,12 @@ When I'm not coding, I'm either cooking or studying philosophy/psicology or taki
 
 I am a lucky man. I work with I love.
 
-<div align="center">
-  <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</div>
-
 <div>&nbsp;</div>
 
 ### Where to find me?
 
 <ul>
-  <li><a href="https://andremesquita.com">andremesquita.com</a></li>
+  <li><a href="https://avmsistemas.net">avmsistemas.net</a></li>
   <li><a href="https://profile.codersrank.io/user/avmesquita">CodersRank</a></li>
   <li><a href="https://avmesquita.github.io">Resume</a></li>
   <li><a href="https://linkedin.com/in/avmesquita">Linkedin</a></li>
@@ -32,19 +28,26 @@ I am a lucky man. I work with I love.
 
 <div>&nbsp;</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</div>
 
 <div>&nbsp;</div>
-
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+<!--<div>&nbsp;</div>-->
+<!--
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=avmesquita&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
 </p>
-
+-->
+<!--
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&type=svg" alt="GitHub Streak" />
 </p>
-
+-->
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
 </div>
