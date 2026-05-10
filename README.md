@@ -13,6 +13,7 @@ When I'm not coding, I'm either cooking or studying philosophy, psicology or tak
 
 Professionally, I would very much like to continue coding and inspiring the new generation of software developers. After all, I even think that's a senior-level mission.
 
+<hr>
 
 ### Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
@@ -25,6 +26,8 @@ Professionally, I would very much like to continue coding and inspiring the new 
 
 [![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
 
+<hr>
+
 ### Stats
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
@@ -34,15 +37,25 @@ Professionally, I would very much like to continue coding and inspiring the new 
   <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
 </div>
 
+<hr>
+
 ### Milestones
 [![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
+<hr>
 
 ### Where to find me?
 
 - [avmsistemas.net](https://avmsistemas.net)
 - [LinkedIn](https://linkedin.com/in/avmesquita)
 
+<hr>
+
+### Useful Utility tools for everyday use
+
+  - [My Utility Tools](https://index.avmsistemas.net)
+
+<hr>
 
 ### Stackoverlow
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
@@ -50,13 +63,13 @@ Professionally, I would very much like to continue coding and inspiring the new 
   - [EN](https://stackoverflow.com/users/2788478/andre-mesquita)
   - [PT](https://pt.stackoverflow.com/users/21263/andre-mesquita)
 
-### Useful Utility tools for everyday use
-
-  - [My Utility Tools](https://index.avmsistemas.net)
+<hr>
 
 ### Other Stuff
 
   - [CodersRank](https://profile.codersrank.io/user/avmesquita)
+
+<hr>
 
 <br><br><br>
 
