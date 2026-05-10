@@ -15,6 +15,21 @@ I am a lucky man. I work with I love.
 
 <div>&nbsp;</div>
 
+### Recent Medium Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+[![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita/actions/workflows/blog-post.yml)
+
+### Stats
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 ### Where to find me?
 
 <ul>
@@ -26,31 +41,10 @@ I am a lucky man. I work with I love.
   <li><a href="https://pt.stackoverflow.com/users/21263/andre-mesquita">StackOverflow PT</a></li>  
 </ul>
 
-<div>&nbsp;</div>
-
-<div align="center">
-  <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</div>
-
-<div>&nbsp;</div>
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
--->
-<!--<div>&nbsp;</div>-->
-<!--
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=avmesquita&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avmesquita&langs_count=6&layout=compact&theme=vision-friendly-dark">
-</p>
--->
-<!--
-<p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=avmesquita&theme=highcontrast&hide_border=true&border_radius=5&type=svg" alt="GitHub Streak" />
-</p>
--->
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
-</div>
+### Useful Utility tools for everyday use
+<ul>
+  <li><a href="https://index.avmsistemas.net">My Utility Tools</a></li>
+</ul>
 
 <br><br><br>
 
