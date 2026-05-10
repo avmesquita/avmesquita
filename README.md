@@ -5,7 +5,7 @@ I am passionate about developing software applications and systems.
 
 I have 50 years old, I code over 30 years and love be coding, integrating technologies or just learning something new.
 
-For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
+For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub Study</a>, <a href="https://github.com/avm-sistemas">GitHub Projects</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
 When I'm not coding, I'm either cooking or studying philosophy or taking long walks around.
 
