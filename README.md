@@ -1,13 +1,15 @@
 [![pages-build-deployment](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/pages/pages-build-deployment)
 
 ### About Me:    
-I am passionate about developing software applications and systems.
 
-I have 50 years old, I code over 30 years and love be coding, integrating technologies or just learning something new.
+I became a developer early on. I have 50 years old now, but when I was a child, I would take everything apart to see how it worked. At age 10 (1986), when I came into contact with Basic at school and was able to create programs that did things, it was a point of no return. Professionally, I started my career in 1996 and I love be coding, integrating technologies or just learning something new.
 
 For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub Study</a>, <a href="https://github.com/avm-sistemas">GitHub Projects</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
-When I'm not coding, I'm either cooking or studying philosophy or taking long walks around.
+When I'm not coding, I'm either cooking or studying philosophy, psicology or taking long walks around.
+
+Professionally, I would very much like to continue coding and inspiring the new generation of software developers. After all, I even think that's a senior-level mission.
+
 
 ### Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
