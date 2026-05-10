@@ -4,7 +4,10 @@
 
 I became a developer early on. I have 50 years old now, but when I was a child, I would take everything apart to see how it worked. At age 10 (1986), when I came into contact with Basic at school and was able to create programs that did things, it was a point of no return. Professionally, I started my career in 1996 and I love be coding, integrating technologies or just learning something new.
 
-For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as <a href="https://github.com/avmesquita/idecobol">IDE Cobol</a> . Today I use <a href="https://github.com/avmesquita">GitHub Study</a>, <a href="https://github.com/avm-sistemas">GitHub Projects</a> and <a href="https://hub.docker.com/u/avmesquita">Docker Hub</a> to publish software, technologies and studies, in order to help the community and inspire new software developers.
+For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as [IDE Cobol](https://github.com/avmesquita/idecobol). Today I use [GitHub Studies](https://github.com/avmesquita), [GitHub Projects](https://github.com/avm-sistemas) and [Docker Hub](https://hub.docker.com/u/avmesquita) to publish software, technologies and studies, in order to help the community and inspire new software developers.
+
+I also have an account on [Medium](https://medium.com/@avmesquita) where I try to improve my reasoning, study, and writing skills.
+
 
 When I'm not coding, I'm either cooking or studying philosophy, psicology or taking long walks around.
 
@@ -36,28 +39,25 @@ Professionally, I would very much like to continue coding and inspiring the new 
 
 
 ### Where to find me?
-<ul>
-  <li><a href="https://avmsistemas.net">avmsistemas.net</a></li>
-  <li><a href="https://avmesquita.github.io">Resume</a></li>
-  <li><a href="https://linkedin.com/in/avmesquita">Linkedin</a></li>
-</ul>
+
+- [avmsistemas.net](https://avmsistemas.net)
+- [LinkedIn](https://linkedin.com/in/avmesquita)
+
 
 ### Stackoverlow
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-<ul>
-  <li><a href="https://stackoverflow.com/users/2788478/andre-mesquita">StackOverflow EN</a></li>  
-  <li><a href="https://pt.stackoverflow.com/users/21263/andre-mesquita">StackOverflow PT</a></li>  
-</ul>
+
+  - [EN](https://stackoverflow.com/users/2788478/andre-mesquita)
+  - [PT](https://pt.stackoverflow.com/users/21263/andre-mesquita)
 
 ### Useful Utility tools for everyday use
-<ul>
-  <li><a href="https://index.avmsistemas.net">My Utility Tools</a></li>
-</ul>
+
+  - [My Utility Tools](https://index.avmsistemas.net)
 
 ### Other Stuff
-<ul>
-  <li><a href="https://profile.codersrank.io/user/avmesquita">CodersRank</a></li>
-</ul>
+
+  - [CodersRank](https://profile.codersrank.io/user/avmesquita)
+
 <br><br><br>
 
 <!-- GitAds-Verify: CPF5M2X8DI856LQQRJJ3Z6LMTS6OOBJ1 -->
