@@ -36,9 +36,7 @@ When I'm not coding, I'm either cooking or studying philosophy or taking long wa
 </ul>
 
 ### Stackoverlow
-<div align="center">
   <a href="https://stackexchange.com/users/3316144"><img src="https://stackexchange.com/users/flair/3316144.png" width="208" height="58" alt="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Andre Mesquita on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
-</div>
 <ul>
   <li><a href="https://stackoverflow.com/users/2788478/andre-mesquita">StackOverflow EN</a></li>  
   <li><a href="https://pt.stackoverflow.com/users/21263/andre-mesquita">StackOverflow PT</a></li>  
