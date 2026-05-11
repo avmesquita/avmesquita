@@ -8,10 +8,15 @@ For years, I published my software on platforms such as Tucows and SuperDownload
 
 I also have an account on [Medium](https://medium.com/@avmesquita) where I try to improve my reasoning, study, and writing skills.
 
-
 When I'm not coding, I'm either cooking or studying philosophy, psicology or taking long walks around.
 
 Professionally, I would very much like to continue coding and inspiring the new generation of software developers. After all, I even think that's a senior-level mission.
+
+Senior Full Stack Software Developer with over 15 years of experience in web application development. Solid experience in back-end (C#, .NET Framework, .NET Core, ASP.NET MVC, WebForms, NestJs) and front-end (Angular, React, JavaScript/TypeScript) layers, as well as extensive knowledge of relational databases (SQL Server, Oracle, MySQL, PostgreSQL), database languages ​​(T-SQL, PL/SQL, PSQL) and infrastructure (AWS, Azure, Firebase, Docker, Linux, Windows). I also have documented work in other technologies (Java, PHP, Python, Typescript, Directus, n8n, Delphi).
+
+Proven track record of projects for large companies in the financial, e-commerce, and retail sectors. Proactive and self-taught professional with a generalist profile, able to work in agile teams (Scrum, XP) and incorporate DevOps practices (Docker, CI/CD) in deliverables. Able to use AI in the development process.
+
+I have frequently used AI with copilot (Gemini, Claude, Cursor, Copilot, Ollama) in code creation and correction, as well as implementing middleware for real-time log analysis in order to streamline the correction process and minimize the impact on the end user.
 
 <hr>
 
