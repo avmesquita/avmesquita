@@ -15,6 +15,16 @@ Professionally, I would very much like to continue coding and inspiring the new 
 
 <hr>
 
+### Resume
+
+| Language | File |
+| ----------- | ----------- |
+| Português | [PDF](https://github.com/avmesquita/avmesquita.github.io/blob/master/docs/andre-mesquita.docx.pdf) |
+| English | [PDF](https://github.com/avmesquita/avmesquita.github.io/blob/master/docs/andre-mesquita.docx-en.pdf) |
+| LLM Ready | [TXT](https://github.com/avmesquita/avmesquita.github.io/blob/master/docs/andre-mesquita.docx.txt) |
+
+<hr>
+
 ### Recent Medium Posts
 <!-- BLOG-POST-LIST:START -->
 - [Por que dar seus segredos para a OpenAI se você tem um notebook velho na gaveta?](https://medium.com/@avmesquita/por-que-dar-seus-segredos-para-a-openai-se-voc%C3%AA-tem-um-notebook-velho-na-gaveta-75cb271248f4?source=rss-f8030e6b8690------2)
