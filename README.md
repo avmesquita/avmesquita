@@ -8,11 +8,11 @@ For years, I published my software on platforms such as Tucows and SuperDownload
 
 I also have an account on [Medium](https://medium.com/@avmesquita) where I try to improve my reasoning, study, and writing skills.
 
-Senior Full Stack Software Developer with over 15 years of experience in web application development. Solid experience in back-end (C#, .NET Framework, .NET Core, ASP.NET MVC, WebForms, NestJs) and front-end (Angular, React, JavaScript/TypeScript) layers, as well as extensive knowledge of relational databases (SQL Server, Oracle, MySQL, PostgreSQL), database languages ​​(T-SQL, PL/SQL, PSQL) and infrastructure (AWS, Azure, Firebase, Docker, Linux, Windows). I also have documented work in other technologies (Java, PHP, Python, Typescript, Directus, n8n, Delphi).
+I am a Software Developer with over 30 years of experience in application development. Solid experience in back-end (C#, .NET Framework, .NET Core, ASP.NET MVC, WebForms, NestJs) and front-end (Angular, React, JavaScript/TypeScript) layers, as well as extensive knowledge of relational databases (SQL Server, Oracle, MySQL, PostgreSQL), database languages ​​(T-SQL, PL/SQL, PSQL) and infrastructure (AWS, Azure, Firebase, Docker, Linux, Windows). I also have documented work in other technologies (Java, PHP, Python, Typescript, Directus, n8n, Delphi).
 
-Proven track record of projects for large companies in the financial, e-commerce, and retail sectors. Proactive and self-taught professional with a generalist profile, able to work in agile teams (Scrum, XP) and incorporate DevOps practices (Docker, CI/CD) in deliverables. Able to use AI in the development process.
+Proven track record of projects for large companies in the financial, e-commerce, and retail sectors. Proactive and self-taught professional with a generalist profile, able to work in agile teams (Scrum, XP) and incorporate DevOps practices (Docker, CI/CD) in deliverables. Able to use AI in the development process. I also wrote a MCP to help my context while using copilot.
 
-I have frequently used AI with copilot (Gemini, Claude, Cursor, Copilot, Ollama) in code creation and correction, as well as implementing middleware for real-time log analysis in order to streamline the correction process and minimize the impact on the end user.
+I have frequently used AI with copilot (Gemini, Claude, Cursor, Codex, Ollama) in code creation and correction, as well as implementing middleware for real-time log analysis in order to streamline the correction process and minimize the impact on the end user.
 
 Professionally, I would very much like to continue coding and inspiring the new generation of software developers. After all, I even think that's a senior-level mission.
 
@@ -36,10 +36,7 @@ When I'm not coding, I'm either cooking or studying philosophy, psicology or tak
 - [O Triângulo de Ferro do Desenvolvimento: Angular, NestJS e a Tipagem que te Liberta](https://medium.com/@avmesquita/o-tri%C3%A2ngulo-de-ferro-do-desenvolvimento-angular-nestjs-e-a-tipagem-que-te-liberta-0967f28c1ffd?source=rss-f8030e6b8690------2)
 - [Polêmica: Angular ou ReactJs?](https://medium.com/@avmesquita/pol%C3%AAmica-angular-ou-reactjs-1484678089fd?source=rss-f8030e6b8690------2)
 - [O Manifesto do Garimpeiro](https://medium.com/@avmesquita/o-manifesto-do-garimpeiro-fa79541c94e2?source=rss-f8030e6b8690------2)
-- [Análise Sistêmica da Situação do Brasil](https://medium.com/@avmesquita/an%C3%A1lise-sist%C3%AAmica-da-situa%C3%A7%C3%A3o-do-brasil-dfa571cadf19?source=rss-f8030e6b8690------2)
 <!-- BLOG-POST-LIST:END -->
-
-[![.github/workflows/blog-post.yml](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml/badge.svg)](https://github.com/avmesquita/avmesquita.github.io/actions/workflows/blog-post.yml)
 
 <hr>
 
@@ -51,11 +48,6 @@ When I'm not coding, I'm either cooking or studying philosophy, psicology or tak
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=avmesquita&style=for-the-badge&color=orange" alt=""/>
 </div>
-
-<hr>
-
-### Milestones
-[![trophy](https://github-profile-trophy.vercel.app/?username=avmesquita&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
