@@ -16,7 +16,9 @@ I have frequently used AI with copilot (Gemini, Claude, Cursor, Codex, Ollama) i
 
 Professionally, I would very much like to continue coding and inspiring the new generation of software developers. After all, I even think that's a senior-level mission.
 
-When I'm not coding, I'm either cooking or studying philosophy, psicology or taking long walks around.
+When I'm not coding, I'm either cooking, studying nature systems or taking long walks around. 
+
+I have been studing (and observing) Systems for all my life with a high critical view and use these skills of reading to develop an essence of human nature studing philosophy, psicology and sociology.
 
 <hr>
 
