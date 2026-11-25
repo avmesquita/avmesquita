@@ -6,7 +6,7 @@ I became a developer early on. I have 50 years old now, but when I was a child, 
 
 For years, I published my software on platforms such as Tucows and SuperDownloads for free use, having reached over 40k downloads, such as [IDE Cobol](https://github.com/avmesquita/idecobol). Today I use [GitHub Repo](https://github.com/avmesquita) and [Docker Hub Repo](https://hub.docker.com/u/avmesquita) to publish software, technologies and studies, in order to help the community and inspire new software developers.
 
-I also have an account on [Medium](https://medium.com/@avmesquita) where I try to improve my reasoning, study, and writing skills.
+I also have accounts on [Medium](https://medium.com/@avmesquita) and [Dev.to](https://dev.to/avmesquita) where I try to improve my reasoning, study, and writing skills.
 
 I am a Software Developer with over 30 years of experience in application development. Solid experience in back-end (C#, .NET Framework, .NET Core, ASP.NET MVC, WebForms, NestJs) and front-end (Angular, React, JavaScript/TypeScript) layers, as well as extensive knowledge of relational databases (SQL Server, Oracle, MySQL, PostgreSQL), database languages ​​(T-SQL, PL/SQL, PSQL) and infrastructure (AWS, Azure, Firebase, Docker, Linux, Windows). I also have documented work in other technologies (Java, PHP, Python, Typescript, Directus, n8n, Delphi).
 
